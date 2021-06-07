@@ -9,3 +9,7 @@ venv.bak/
 
 .vscode
 .vscode/
+
+__pycache_
+__pycache__/app.cpython-37.pyc
+__pycache_/

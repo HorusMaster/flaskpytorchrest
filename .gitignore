@@ -6,9 +6,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+__pycache_
+__pycache_/
 .vscode
 .vscode/
 
-__pycache_
-__pycache_/
+
